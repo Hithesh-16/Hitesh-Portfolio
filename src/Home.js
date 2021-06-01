@@ -82,7 +82,7 @@ export default function Home(){
 
                         <div class="home__img">
                             {/* <!-- <img src="assets/img/BhavanaRes.jpg" alt=""> --> */}
-                            <img src="hiteshmain.jpg" class="rounded-circle" alt="..." />
+                            <img src="hiteshmain.JPG" class="rounded-circle" alt="..." />
                         </div>
                     </section>
 
