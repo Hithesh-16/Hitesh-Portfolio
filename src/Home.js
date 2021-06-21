@@ -76,7 +76,7 @@ export default function Home(){
 
                         <div class="home__social">
                             <a href="" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>
-                            {/* <a href="" class="home__social-icon"><i class='bx bxl-behance' ></i></a> */}
+                        
                             <a href="" class="home__social-icon"><i class='bx bxl-github' ></i></a>
                         </div>
 
