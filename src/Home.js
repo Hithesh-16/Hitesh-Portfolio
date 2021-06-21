@@ -266,35 +266,55 @@ export default function Home(){
                 <h4>Technologies used<br/>
                 Frontend : Html, CSS, Bootstrap, React JS<br/>
                 Backend: Node.js,Python<br/>
-                Deployment: AWS Cloude Services<br/>
+                Deployment: AWS Cloud Services<br/>
                 Code Versioning Systems: Git and GitHub</h4>
                 <p>
                 Sprint 1: Learnings
-                Learned about the SCRUM methodology
-                Learned various attributes and aspects of SCRUM
-                Decided on what technologies are needed to develop the Web Application
-                Finalised MERN technologies
-                Worked on the basics of MERN technologies
-                Learned how to create the User stories and branches in GitHub
+                Learned about the SCRUM methodology<br/>
+                Decided on what technologies are needed to develop the Web Application<br/>
+                Learned how to create the User stories and branches in GitHub<br/>
                 Also learned how to write Acceptance criteria for a user Story
                 Developed a user stories and prototype using Balsamiq Cloude <br/><br/>
                 Sprint 2: Learnings
-                Started implementing the User story 1 which is to create a Student and counsellor page
-                Created the User Interface using React JS
-                Created a database in DyamoDB and connected UI and Database using  and Node
+                Started implementing the User story 1 which is to create a Student and counsellor page<br/>
+                Created the User Interface using React JS<br/>
+                Created a database in DyamoDB and connected Lambda functions and Database using Python and  and Node<br/>
                 Implemented UI for Admin page for Student, Counsellor.
                 <br/><br/>
                 Sprint 2: Learnings
-                Started implementing the User story 1 which is to create a FRontend for Admin.
-                Created the User Interface using React JS
-                Created a database in MongoDB and connected UI and Database using Express and Node
+                Started implementing the User story 1 which is to create a Frontend for Admin<br/>
+                Created the User Interface using React JS<br/>
+               Created a UI to show the data of uploaded CSV file <br/>
                 I have developed the UI part for user story1, 2. Tried to implement the backend part to the project.
-                <br></br>
+                <br/><br/>
                 Sprint 3: Learnings
-                Learnt about AWS Cloud services.
-                Created the User Interface using React JS
+                Learnt about AWS Cloud services.<br/>
+                Created the User Interface using React JS<br/>
+                Worked on AWS Unicorn project to know about all the functionality that are required for Counsellor Project<br/>
                 Created a database in DynamoDB and connected UI and Database using Node.js using lambda functions.
-                I have developed the UI part for user story1, 2. Tried to implement the backend part to the project.
+                <br/><br/>
+                Sprint 4: Learnings
+                Worked on API gate way. Connected Lambda functions to react.js APP through API gateway<br/>
+                Faced CORS issue<br/>
+                was able to connect the lambda funcions to API gateway<br/>
+                Able to perform CRUD operations using API gateway<br/>
+                <br/><br/>
+                Sprint 5: Learnings
+                Able perfom CRUD operations using API gateway<br/>
+                Faced CORS issue<br/>
+                Fixed the CORS issue and deployed and connected the React.js to AWS cloud services using API gateway<br/>
+                Succefully displayed the data in React app from Dynamo DB table using get method.
+                <br/><br/>
+                Sprint 6: Learnings
+                Worked on post method to convert the CSV data into JSON<br/>
+                Faced CORS issue<br/>
+                Fixed the CORS issue and deployed and connected the React.js to AWS cloud services using API gateway<br/>
+                Worked on redirecting to the Components based on the roles like Student, Admin and Counsellor.
+                <br/><br/>
+                Sprint 7: Learnings
+                Worked on Google Authentication using Google API<br/>
+                Worked on LAnding page and redirection to the components based on roles<br/>
+                Worked on Logout, refresh token and session token<br/>
                 </p>
 
 
